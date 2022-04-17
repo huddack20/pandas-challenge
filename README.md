@@ -3,7 +3,7 @@
 
 Only PyCitySchools is taken into account for pandas challenge. 
 
-Please refer to "PyCitySchools_ChangWoonJang.ipynb". 
+Please refer to "PyCitySchools_ChangWoonJang.ipynb" in the PyCityScools directory. 
 
 This data consists of 15 schools divided into two school types: seven District and eight Charter schools. For the percentage of passing math and reading, charter schools are ranked in the top five schools while five lowest performing schools are all district schools. 
 
